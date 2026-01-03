@@ -1,0 +1,21 @@
+City,Country,Continent,Temperature,Humidity,Rainfall,Wind_Speed,Pressure,Date,Weather_Condition
+New York,USA,North America,15.5,65,120,12.3,1015,2024-01-15,Cloudy
+London,UK,Europe,10.2,78,150,8.5,1010,2024-01-15,Rainy
+Tokyo,Japan,Asia,16.8,72,180,6.2,1012,2024-01-15,Partly Cloudy
+Sydney,Australia,Australia,18.5,60,130,15.1,1013,2024-01-15,Sunny
+Paris,France,Europe,12.3,75,110,10.4,1011,2024-01-15,Cloudy
+Moscow,Russia,Europe,5.6,55,90,7.8,1014,2024-01-15,Snow
+Berlin,Germany,Europe,8.9,70,95,9.3,1012,2024-01-15,Rainy
+Mumbai,India,Asia,28.3,85,210,5.6,1009,2024-01-15,Humid
+Cairo,Egypt,Africa,22.1,40,5,14.2,1015,2024-01-15,Sunny
+São Paulo,Brazil,South America,23.7,68,135,6.9,1010,2024-01-15,Cloudy
+Toronto,Canada,North America,2.4,62,80,11.5,1013,2024-01-15,Snow
+Dubai,UAE,Asia,25.6,35,10,8.7,1016,2024-01-15,Clear
+Singapore,Singapore,Asia,30.2,88,240,3.4,1008,2024-01-15,Thunderstorm
+Beijing,China,Asia,3.8,45,25,16.3,1017,2024-01-15,Windy
+Cape Town,South Africa,Africa,19.7,58,45,13.8,1014,2024-01-15,Sunny
+Mexico City,Mexico,North America,14.2,52,70,7.1,1012,2024-01-15,Clear
+Rome,Italy,Europe,13.5,65,115,5.9,1013,2024-01-15,Partly Cloudy
+Seoul,South Korea,Asia,1.2,48,40,12.6,1015,2024-01-15,Cold
+Bangkok,Thailand,Asia,32.5,78,180,4.8,1007,2024-01-15,Hot
+Istanbul,Turkey,Europe,9.8,66,105,10.1,1012,2024-01-15,Rainy
